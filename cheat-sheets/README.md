@@ -83,26 +83,11 @@ This collection is **useful for everyone in the DevOps ecosystem**:
 We **welcome contributions!** If you have insights, new tools, or improvements, feel free to submit a **pull request**.  
 
 📌 **How to Contribute?**  
-- Read the **[CONTRIBUTING.md](https://github.com/NotHarshhaa/devops-cheatsheet/blob/main/CONTRIBUTING.md)** guide.  
+- Read the **[CONTRIBUTING.md](https://github.com/Haswanthkondamadugula/DevOps-Interview-Questions/blob/main/CONTRIBUTING.md)** guide.  
 - Fix errors, add missing topics, or suggest improvements.  
 - Submit a **pull request** with your updates.  
 
 📢 **Stay Updated:**  
 ⭐ **Star the repository** to get notified about new updates and additions.  
-💬 **Join discussions** in **[GitHub Issues](https://github.com/NotHarshhaa/devops-cheatsheet/issues)** to suggest improvements.  
+💬 **Join discussions** in **[GitHub Issues](https://github.com/Haswanthkondamadugula/DevOps-Interview-Questions/issues)** to suggest improvements.  
 
----
-
-## **🌍 Community & Support**  
-
-🔗 **GitHub:** [@NotHarshhaa](https://github.com/NotHarshhaa)  
-📝 **Blog:** [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-💬 **Telegram Community:** [Join Here](https://t.me/prodevopsguy)  
-
----
-
-## **🔹 Ready to Supercharge Your DevOps Workflow?**  
-
-🚀 **[Check Out the DevOps Cheatsheet Repository](https://github.com/NotHarshhaa/devops-cheatsheet)**  
-
-🔥 **Master DevOps – One Command at a Time!** 🔥  
