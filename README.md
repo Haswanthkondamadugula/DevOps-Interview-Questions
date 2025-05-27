@@ -1,10 +1,10 @@
 # 🚀 DevOps Interview Questions & Answers  
 
-![DevOps Banner](https://imgur.com/7Vjj0UE.png)
+![image](https://github.com/user-attachments/assets/00cb242f-3acb-4145-b325-589d13ee0642)
 
 ## 📌 About This Repository  
 
-![about](https://imgur.com/i6dZXRH.png)
+![image](https://github.com/user-attachments/assets/d131b5dd-e1e8-4c65-9658-120352cafdd0)
 
 Welcome to **DevOps Interview Questions & Answers** – your one-stop destination for mastering **DevOps, Cloud, and SRE interviews**! 🚀  
 
@@ -197,11 +197,7 @@ Looking for **downloadable PDFs** of **DevOps interview questions, cheat sheets,
 ✅ **Live Mock Interview Recordings (YouTube/Blog)**  
 
 📌 **Follow for Updates:**  
-🔗 **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-📝 **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-💬 **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-
----
+🔗 **GitHub**: [@Haswanth](https://github.com/Haswanthkondamadugula)  
 
 ## ⭐ Support This Project  
 
@@ -211,5 +207,3 @@ If this repository **helped you**, please:
 ✅ **Contribute** by adding new questions  
 
 🚀 **Happy Learning & Best of Luck for Your DevOps Interviews!** 🚀  
-
-![banner](https://imgur.com/8ypFtRx.png)
