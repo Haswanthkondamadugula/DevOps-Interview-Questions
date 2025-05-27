@@ -12,7 +12,7 @@ Thank you for considering contributing to **DevOps Interview Questions**! 🎉 T
 2. Clone the forked repository to your local machine:  
 
    ```bash
-   git clone https://github.com/NotHarshhaa/devops-interview-questions.git
+   git clone https://github.com/Haswanth/devops-interview-questions.git
    cd devops-interview-questions
    ```
 
