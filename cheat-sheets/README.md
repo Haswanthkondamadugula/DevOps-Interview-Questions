@@ -6,7 +6,7 @@
 This section provides a **high-level overview** of DevOps toolsets, but for **detailed, well-structured cheat sheets**, we maintain a separate **dedicated repository**.  
 
 👉 **Access the Full Cheatsheet Collection:**  
-🔗 **[DevOps Tools Cheatsheet Repository](https://github.com/NotHarshhaa/devops-cheatsheet)**  
+🔗 **[DevOps Tools Cheatsheet Repository](https://github.com/Haswanthkondamadugula/Devops-Cheatsheet)**  
 
 ---
 
@@ -39,7 +39,7 @@ Instead of duplicating content, all cheatsheets are maintained in a **dedicated 
 | **Security & Compliance**    | Trivy, SonarQube, HashiCorp Vault |
 | **Networking & GitOps**      | Istio, Envoy, Consul, GitHub, GitLab |
 
-📌 **👉 [Explore the Full Cheatsheet Collection](https://github.com/NotHarshhaa/devops-cheatsheet)**  
+📌 **👉 [Explore the Full Cheatsheet Collection](https://github.com/Haswanthkondamadugula/Devops-Cheatsheet)**  
 
 ---
 
@@ -60,7 +60,7 @@ Instead of duplicating content, all cheatsheets are maintained in a **dedicated 
 3️⃣ **Bookmark for Quick Reference** – No need to Google every time!  
 4️⃣ **Contribute & Improve** – Share your insights, report errors, or add missing tools.  
 
-🔗 **Start Exploring:** 👉 [DevOps Cheatsheet Repository](https://github.com/NotHarshhaa/devops-cheatsheet)  
+🔗 **Start Exploring:** 👉 [DevOps Cheatsheet Repository](https://github.com/Haswanthkondamadugula/Devops-Cheatsheet)  
 
 ---
 
