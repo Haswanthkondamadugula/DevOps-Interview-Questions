@@ -91,17 +91,17 @@ We have **organized the questions based on DevOps tools and concepts**:
 
 | Category                      | 📂 Folder | 🔗 Link |  
 |--------------------------------|----------|---------|  
-| **DevOps Core Concepts**       | `core-concepts/` | [View Questions](core-concepts/README.md) |  
-| **AWS, Azure, GCP**            | `cloud/` | [View Questions](cloud/README.md) |  
-| **Jenkins, GitHub Actions**    | `ci-cd/` | [View Questions](ci-cd/README.md) |  
-| **Docker, Kubernetes**         | `containers/` | [View Questions](containers/README.md) |  
-| **Terraform, Ansible**         | `infrastructure-as-code/` | [View Questions](infrastructure-as-code/README.md) |  
-| **Prometheus, ELK Stack**      | `monitoring-logging/` | [View Questions](monitoring-logging/README.md) |  
-| **IAM, Security, Networking**  | `networking-security/` | [View Questions](networking-security/README.md) |  
-| **Scripting & Automation**     | `automation-scripting/` | [View Questions](automation-scripting/README.md) |  
-| **Mock Interviews & Scenarios**| `mock-interviews/` | [View Questions](mock-interviews/README.md) |  
-| **Cheat Sheets**               | `cheat-sheets/` | [View Questions](cheat-sheets/README.md) |  
-| **DevOps Interview Q&A PDF**               | `docs/` | [Download](docs/README.md) |
+| **DevOps Core Concepts**       | `core-concepts/` | [View Questions](https://github.com/Haswanthkondamadugula/DevOps-Interview-Questions/blob/main/Core-Concepts/README.md) |  
+| **AWS, Azure, GCP**            | `cloud/` | [View Questions](https://github.com/Haswanthkondamadugula/DevOps-Interview-Questions/blob/main/Cloud/README.md) |  
+| **Jenkins, GitHub Actions**    | `ci-cd/` | [View Questions](https://github.com/Haswanthkondamadugula/DevOps-Interview-Questions/blob/main/Ci-Cd/README.md) |  
+| **Docker, Kubernetes**         | `containers/` | [View Questions](https://github.com/Haswanthkondamadugula/DevOps-Interview-Questions/blob/main/Containers/README.md) |  
+| **Terraform, Ansible**         | `infrastructure-as-code/` | [View Questions](https://github.com/Haswanthkondamadugula/DevOps-Interview-Questions/blob/main/Infrastructure-as-code/README) |  
+| **Prometheus, ELK Stack**      | `monitoring-logging/` | [View Questions](https://github.com/Haswanthkondamadugula/DevOps-Interview-Questions/tree/main/monitoring-logging) |  
+| **IAM, Security, Networking**  | `networking-security/` | [View Questions](https://github.com/Haswanthkondamadugula/DevOps-Interview-Questions/blob/main/networking-security/README.md) |  
+| **Scripting & Automation**     | `automation-scripting/` | [View Questions](https://github.com/Haswanthkondamadugula/DevOps-Interview-Questions/blob/main/automation-scripting/README.m) |  
+| **Mock Interviews & Scenarios**| `mock-interviews/` | [View Questions](https://github.com/Haswanthkondamadugula/DevOps-Interview-Questions/blob/main/mock-interviews/README.md) |  
+| **Cheat Sheets**               | `cheat-sheets/` | [View Questions](https://github.com/Haswanthkondamadugula/DevOps-Interview-Questions/blob/main/cheat-sheets/README.md) |  
+| **DevOps Interview Q&A PDF**               | `docs/` | [Download](https://github.com/Haswanthkondamadugula/DevOps-Interview-Questions/tree/main/Docs) |
 
 ---
 
